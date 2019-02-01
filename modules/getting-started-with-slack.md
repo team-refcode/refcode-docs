@@ -1,6 +1,19 @@
 # Getting Started with Slack
+Slack is a tool that allows teams to communicate quickly and efficiently. It is instant like texting, but it is powerful like email. We will use it for all communication in this class. You can use it for things like:
 
-Instructor: Before starting the course, setup a Slack group for the class
+* Asking for help
+* Sharing information that the instructor is asking for
+* Letting everyone know if you will be absent or late
+* Giving help
+* Talking about things related to the class
+* Reading updates from the instructor about the class
+* Sending messages to only one person
+
+We use Slack in place of Email or texting in this class because it has a lot of powerful tools and features, such as the ability to share screenshots, react with emoji, respond to comments in threads, join channels that are about a particular topic, share files, share code examples, and much more!
+
+Slack will be installed on your phone as well as your computer. This way you can get up-to-date information no matter where you are but you can also use powerful features on your laptop when doing your homework. 
+
+_Instructor: Before starting the course, setup a Slack group for the class_
 
 ## Objectives
 1. Establish Slack as the primary method for communication in this course
