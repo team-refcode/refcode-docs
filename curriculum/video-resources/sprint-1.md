@@ -1,4 +1,4 @@
-# Sprint 1 Videos
+# Sprint 1 | Videos
 The following videos will help you understand some of the high level concepts that are important to this class. If you have difficulty understanding anything in the videos, please bring it up in Slack.
 
 ## HTML Syntax
