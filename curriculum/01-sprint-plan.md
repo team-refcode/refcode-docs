@@ -16,6 +16,7 @@ Broad and shallow introduction to almost everything that will be taught in the c
 1. [Introduction to Javascript](../modules/intro-to-js)
 
 ## Homework
+1. [Downloading the Github Refcode Repo](../modules/downloading-refcode-repo)
 1. [Youtube Resources for Sprint 1](./video-resources/sprint-1)
 1. [Review Terms for Sprint 1](./terms-and-vocabulary/sprint-1)
 
