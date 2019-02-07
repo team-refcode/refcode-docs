@@ -1,5 +1,7 @@
 # Sprint 1 Self-Test
-Put a checkmark near each question you feel you know the answer to. You may be asked to answer the questions you have checked in front of the class.
+Review all of the questions and place a checkmark next to the questions you think you can answer. Bring your test with your check marks in to class. 
+
+If you are unsure about any question, you can use the links in the test to review the material, ask in Slack, ask your Tutor, or get help in a Saturday lab.
 
 ## Introduction
 - [ ] What are different ways you can get help in this class?
