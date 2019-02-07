@@ -1,7 +1,7 @@
 # Downloading the Refcode Repositiory from Github
 
 1. Go to the [GitHub Refcode repository](https://github.com/brentonstrine/Refcode)
-1. On that page, click “Clone or Download” and then “Download ZIP”. <br/>This will download the Refcode repository as a .zip file. <br/> **Hint**: *Where did you download it to?* <br/>
+1. On that page, click “Clone or Download” and then “Download ZIP”. <br/> <img width="300px" src="./downloading-refcode-repo-1.png" alt="Download Refcode Repo" /> <br/>This will download the Refcode repository as a .zip file. <br/> **Hint**: *Where did you download it to?*
 1. Decompress it somewhere. <br/> **Hint**: *Where did you decompress it?*
 1. Open Atom and add the Refcode folder as a project. 
 1. In Atom, open the following file: `Refcode/Sprint-01/homework/helloworld.html`
