@@ -5,9 +5,6 @@ This section is an introduction to some of the necessary logistics of coding. St
 ### File types
 Talk about different file types as a way of showing that there are many ways to format a document, and HTML/CSS are just one way. 
 
-### Atom
-Atom is a program specifically designed for writing code. It opens documents in plaintext without any other formatting. Thus, if you open files that have some other type of encoding, you will see the code, not the rendered output or rich text. The file extension is a hint about what type of encoding will be used and which program should open it. 
-
 ## Exercise
 Demonstrate that handwritten code needs to be edited in plaintext, in a special editor (not MS Word), and given a special extension. HTML files can be opened by either a browser or an editor. The same exact document can be encoded in different formats. 
 
