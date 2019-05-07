@@ -1,4 +1,4 @@
-# RefCode Documentatation
+# Refcode Documentatation
 
 ## Curriculum
 [View Curriculum](./curriculum)
