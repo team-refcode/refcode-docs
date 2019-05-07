@@ -9,6 +9,7 @@ Broad and shallow introduction to almost everything that will be taught in the c
 
 ## Modules
 1. [Getting Started with Slack](../modules/getting-started-with-slack)
+1. [Asking for Help and Finding Answers](../modules/asking-for-help-and-finding-answers)
 1. [Getting Started with Atom](../modules/getting-started-with-atom)
 1. [File types and encoding](../modules/file-types-and-encoding)
 1. [Understanding Browser Rendering](../modules/browser-rendering)
