@@ -13,18 +13,33 @@ This workshop will walk you through how to use the password manager built-in to 
 
 ## Save a new account with the Chrome password manager (Smart Lock)
 1. Create a GitHub account here: [https://github.com/join?source=header-home](https://github.com/join?source=header-home)
+
+<img alt="Github signup page" src="./account-management-workshop-1.png" width=450/>
+
 2. Create a username and enter your email address
 3. Right-click the password input and select Suggest Password...
+
+<img alt="Github signup page" src="./account-management-workshop-2.png" width=450/>
+
 4. When the password menu appears below the input, click `Use suggested password`
 
+<img alt="Suggest password" src="./account-management-workshop-3.png" />
+
 > Note: You can click on the password field to see and edit your password before continuing. Sometimes you will need to do this when a website has special requirements for a password and the automatically generated password does not meet them. For example, it may require special characters and you may need to manually add a % or a $ to make the password meet the requirements.
+> <img alt="View password" src="./account-management-workshop-4.png" />
 
 5. Click the button to create an account.
 6. Be sure the password is saved and you get a message in the top right of the browser:
+
+<img alt="Password saved message" src="./account-management-workshop-5.png" />
+
 7. Go to [https://passwords.google.com](https://passwords.google.com) and verify that the password and username (email, in this case) is stored.
 
 ## Practice logging in with Google Account Manager
 1. Log out of GitHub 
+
+<img alt="Logout of Github" src="./account-management-workshop-6.png" />
+
 2. Go to the login page [https://github.com/login](https://github.com/login)
 3. Chrome will auto-detect the page and auto-fill your account. The fields that have been auto-filled will be yellow.
 4. If for some reason it isn’t auto-filled, (or if you have multiple accounts) you can click on the username and then select your account name from the dropdown, and it will auto-fill the login for you.
