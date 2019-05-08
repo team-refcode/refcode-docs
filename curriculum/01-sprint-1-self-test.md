@@ -20,10 +20,6 @@ If you are unsure about any question, you can use the links in the test to revie
 - [ ] Fill out the student tutoring availability form
 - [ ] Did you meet with your tutor this week?
 
-## Browser Rendering
-- [ ] What does a browser do with source code?
-- [ ] Do users interact with source code?
-
 ## File Types
 - [ ] Does your computer show file extensions?
 - [ ] What is the difference between plain text and rich text?
@@ -36,8 +32,6 @@ If you are unsure about any question, you can use the links in the test to revie
 - [ ] If an HTML file has just “Hello World” in it, will the browser read that as code or content?
 - [ ] In HTML, what characters indicate something is code?
 - [ ] What is a tag?
-- [ ] What does CSS do?
-- [ ] What does Javascript do?
 
 
-## Score: ___ / 21
+## Score: ___ / 18
