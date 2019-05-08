@@ -14,12 +14,12 @@ This workshop will walk you through how to use the password manager built-in to 
 ## Save a new account with the Chrome password manager (Smart Lock)
 1. Create a GitHub account here: [https://github.com/join?source=header-home](https://github.com/join?source=header-home)
 
-<img alt="Github signup page" src="./account-management-workshop-1.png" width=450 />
+<img alt="Github signup page" src="./account-management-workshop-1.png" width="450px" />
 
 2. Create a username and enter your email address
 3. Right-click the password input and select Suggest Password...
 
-<img alt="Github signup page" src="./account-management-workshop-2.png" width=450 />
+<img alt="Github signup page" src="./account-management-workshop-2.png" width="450px" />
 
 4. When the password menu appears below the input, click `Use suggested password`
 
