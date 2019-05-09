@@ -18,7 +18,7 @@ Broad and shallow introduction to almost everything that will be taught in the c
 
 ## Homework
 1. [Brainload](https://brentonstrine.github.io/brainload/)
-1. [Youtube Resources for Sprint 1](./video-resources/sprint-1)
+1. [Youtube Resources for Sprint 1](https://www.youtube.com/watch?v=9yRvIE9hOJg&list=PLJqzUFK3oO7lDMAC7QeC-1lnTLNjVhWP4)
 
 ## Self Assessment
 [Sprint 1 Self Assessment](./01-sprint-1-self-test)
