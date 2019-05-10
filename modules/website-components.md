@@ -1,16 +1,18 @@
 # Website Components
 The “Better than Elon Musk” module is intended to teach all of the significant components of a website using an incredibly simple example. Elon Musk is an incredibly successful immigrant, and he happens to have a website x.com which (as of this writing) consists only of a single character: the letter x. This provides us with the opportunity to look at a lot of the different components of a website without being overwhelmed. The goal of students for the next class will be to create a website that has all of the components of x.com, plus something else, hence they will have built a website better than Elon Musk did.
 
-## Register a domain
-After talking through the parts of a URL and the importance of the domain and TLD, students can register a free domain and set the nameservers to the host that is provided. This is an (important) opportunity to practice good account/password management. Students also will practice sharing on Slack as the instructor needs each student’s domain name to set up their account. In the past we had issues with Freenom blocking the IP address of the building when 10 students tried to create accounts at the same time, so we may want to move this into a homework section, though it also is a module that tends to have a lot of random problems that students need help with. 
 ## Digging into code
 Having been given a taste of HTML, CSS and Javascript last class, we now will take some time to give a proper introduction. Along the way students will also be forced to use GitHub and Atom and to develop an understanding of source code, rendered code, and the concept of “syntax.”
+
 ## HTML
 Don’t teach attributes yet. Just focus on the concept of the tag and how it affects the rendered output. The name of the tag has semantic meaning. In HTML, text is by default seen as content, and to tell the browser something is code, we need to indicate that it is code with angle brackets. 
+
 ## CSS
 Try to get students to make the connection between HTML elements on the page and the selectors. Also go into the fact that different properties exist. 
+
 ## Javascript
 Goal for this session is for students to understand that in Javascript, any text is by default assumed to be code, and if we want to have some kind of content or value, it needs to be specially indicated as such (leads into syntax for different var types). Do not cover arrays in this class at all. Only teach objects, numbers, and strings.
+
 ## Professional Communication
 Encourage students to use Slack as a tool to create community and connection, and as a resource when needing help. Strongly encourage students not to wait when they are stuck on something. They need to ask on Slack and get the answer right away, because they are expected to get stuck at least 100 times each sprint, so they need to develop the skills to get unstuck. Explain the difference between getting unblocked “on your own” (without help) and taking the initiative to get unblocked. 
 
