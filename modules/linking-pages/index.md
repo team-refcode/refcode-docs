@@ -6,11 +6,28 @@ It's called an *anchor* tag because one end of a link that leads to another docu
 
 ## Creating a link
 
-steps | `html` | renders
------ | ------ |--------
-Create an empty *a* tag | `<a></a>` | []()
-Specify the target in the opening tag | `<a href="https://refcode.org"></a>` | [](https://refcode.org)
-Then add the text that should work as a link | `<a href="https://refcode.org">Link to Refcode</a>` | [Link to Refcode](https://refcode.org)
+<table>
+  <tr>
+    <th>steps</th>
+    <th><code>html</code></th>
+    <th>renders</th>
+  </tr>
+  <tr>
+    <td>Create an empty <em>a</em> tag</td>
+    <td><code>&lt;a&gt;&lt;/a&gt;</code></td>
+    <td><a></a></td>
+  </tr>
+  <tr>
+    <td>Specify the target in the opening tag</td>
+    <td><code>&lt;a href="https://refcode.org"&gt;&lt;/a&gt;</code></td>
+    <td><a href="https://refcode.org"></a></td>
+  </tr>
+  <tr>
+    <td>Then add the text that should work as a link</td>
+    <td><code>&lt;a href="https://refcode.org"&gt;Link to Refcode&lt;/a&gt;</code></td>
+    <td><a href="https://refcode.org">Link to Refcode</a></td>
+  </tr>
+</table>
 
 Notice that the link does not render in the browser until we add content to the tag.
 
