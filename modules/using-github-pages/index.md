@@ -15,5 +15,5 @@ Github pages is a way to host your website directly from your GitHub repository.
 
 <br/>
 
-6. Done! Open Chrome and go to `https://username.github.io`
+**Done!** Open Chrome and go to `https://username.github.io`
 > Note: Don't worry too much about the url address right now. We can update it to a custom domain later.
