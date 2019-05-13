@@ -6,7 +6,7 @@ It's called an *anchor* tag because one end of a link that leads to another docu
 
 ## Creating a link
 steps | `html` | renders
------|--------|--------
+----- | ------ |--------
 Create an empty *a* tag | `<a></a>` | []()
 Specify the target in the opening tag | `<a href="https://refcode.org"></a>` | [](https://refcode.org)
 Then add the text that should work as a link | `<a href="https://refcode.org">Link to Refcode</a>` | [Link to Refcode](https://refcode.org)
