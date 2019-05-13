@@ -9,6 +9,11 @@ Github pages is a way to host your website directly from your GitHub repository.
 3. Open your project in Atom.
 4. Create an `index.html` file to add to your project. We will use the base HTML structure found in [Structuring HTML Pages](../modules/structuring-html-pages)
 5. Commit and Push. Enter the repository, commit your changes, and press the publish button.
+<br/>
+
 ![Commit and push your repo using Github Desktop](./using-github-pages-3.gif)
-6. Done! Open Chrome and go to https://username.github.io.
+
+<br/>
+
+6. Done! Open Chrome and go to `https://username.github.io`
 > Note: Don't worry too much about the url address right now. We can update it to a custom domain later.
