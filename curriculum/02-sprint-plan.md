@@ -1,5 +1,5 @@
 # Sprint 2 Lesson Plan
-Expanding on foundations of development and establishing fundamentatals
+Expanding on foundations of development and establishing fundamentals
 
 ## Learning Goals for Sprint 2
 1. Establish common vocabulary for development (local, save, refresh, render, etc...)
