@@ -2,7 +2,7 @@
 Links are a vital part of HTML and the very reason why the web exists. In HTML, links are created using the **anchor tag**, `<a>`.
 
 ## Why is it called an "anchor" tag?
-It's called an *anchor* tag because one end of a link that leads to another document sort of how an anchor on a boat starts at one point and ends at another. Originally, they weren't designed to link to outside pages - they were meant to jump to locations within a single large document. Today, we use anchor tags as links to other pages - it's also more common to call them simply "A" tags.
+It's called an *anchor* tag because one end of a link that leads to another document - sort of how an anchor on a boat starts at one point and ends at another. Originally, they weren't designed to link to outside pages - they were meant to jump to locations within a single large document. Today, we use anchor tags as links to other pages - it's also more common to call them simply "A" tags.
 
 ## Creating a link
 
