@@ -20,8 +20,6 @@ Expanding on foundations of development and establishing fundamentals
 ## Homework
 
 ### Exercises
-
-1. Send a message “Hello, I am starting my homework!” to the #general room on Slack.  Remember to ask for help if you are getting stuck. (2 minutes)
 1. Make sure you have a profile photo in Slack. If you don’t have one, look in the #random channel for instructions on how to get one. (2-5 minutes)
 1. Post a screenshot of your computer to Slack. If you don’t know how to do this, you can look through previous slack comments to find instructions, or ask for help! (2 minutes)
 Use your keyboard to perform a swapkown on your GYRT. (10 Seconds)
@@ -71,18 +69,18 @@ Some important HTML elements:
 
 |Tag|		Semantic Meaning|
 |---|---|
-|<h1> - <h5>|	Headings|
-|<p>|		Paragraph|
-|<i>|		Foreign word, or other typographically offset word (not italic!)|
-|<em>|		Emphasised text, or verbally offset word (displayed in italic)|
-|<a>|		Link. (Requires href=”” attribute.)|
-|<ul>| 		Unordered List|
-|<ol>| 		Ordered List|
-|<li>|		List Item (must be nested inside a <ul> or <ol>!)|
-|<blockquote>|	Quotation|
-|<img>|		Image (Requires src=”” attribute.)|
-|<div>|		Block-level element intentionally without semantic meaning|
-|<span>|	Inline-level element intentionally without semantic meaning|
+|`<h1> - <h5>`|	Headings|
+|`<p>`|		Paragraph|
+|`<i>`|		Foreign word, or other typographically offset word (not italic!)|
+|`<em>`|		Emphasised text, or verbally offset word (displayed in italic)|
+|`<a>`|		Link. (Requires href=”” attribute.)|
+|`<ul>`| 		Unordered List|
+|`<ol>`| 		Ordered List|
+|`<li>`|		List Item (must be nested inside a <ul> or <ol>!)|
+|`<blockquote>`|	Quotation|
+|`<img>`|		Image (Requires src=”” attribute.)|
+|`<div>`|		Block-level element intentionally without semantic meaning|
+|`<span>`|	Inline-level element intentionally without semantic meaning|
 
 #### /r/LEARNPROGRAMMING Subreddit
 Reddit is a website that allows small communities to form on any topic. The /r/learnprogramming community is a great place to ask questions and see what other beginners are going through.
