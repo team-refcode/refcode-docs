@@ -43,7 +43,7 @@ Follow the instructions in this document to register a domain for free.
  - Copy your developer story outline (from the shared Google Doc here).
  - Paste your developer story into the mystory.html file in Atom.
  - Consider if there are any major milestones missing from the list you put together.
- - Use HTML to turn your developer story milestones into a list (use the <ol> and <li> tags).
+ - Use HTML to turn your developer story milestones into a list (use the `<ol>` and `<li>` tags).
  - Use HTML to continue building your developer story page. It will need a heading and a paragraph to introduce yourself and to introduce the developer story. Feel free to add anything else you are learning about HTML
 
 ### Watch YouTube Video
@@ -76,7 +76,7 @@ Some important HTML elements:
 |`<a>`|		Link. (Requires href=”” attribute.)|
 |`<ul>`| 		Unordered List|
 |`<ol>`| 		Ordered List|
-|`<li>`|		List Item (must be nested inside a <ul> or <ol>!)|
+|`<li>`|		List Item (must be nested inside a `<ul>` or `<ol>`!)|
 |`<blockquote>`|	Quotation|
 |`<img>`|		Image (Requires src=”” attribute.)|
 |`<div>`|		Block-level element intentionally without semantic meaning|
