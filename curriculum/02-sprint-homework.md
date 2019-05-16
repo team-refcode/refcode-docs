@@ -1,17 +1,19 @@
 # Sprint 2 Homework
 
 ## Exercises
-1. Make sure you have a profile photo in Slack. If you don’t have one, look in the `#random` channel for instructions on how to get one. (2-5 minutes)
-1. Post a screenshot of your computer to Slack. If you don’t know how to do this, try looking it up, or ask for help! (2 minutes)
+1. Make sure you have a profile photo in Slack. (2-5 minutes)
+1. Post a screenshot of your computer to Slack. (2 minutes)
 1. Use your keyboard to perform a swapkown on your GYRT. (10 Seconds)
-1. Brainload Syntax Game
-Play the “Brainload” javascript game for 10 minutes. (10 mins)
-https://brentonstrine.github.io/brainload/
+1. Play the (Brainload)[https://brentonstrine.github.io/brainload/] javascript game for 5 minutes. (5 mins)
+
 
 ## Project
 1. Create your website home page
  - In Atom, create a file named index.html. Make sure it’s inside your project folder.
- - Type the name of your domain (similar to how x.com did).
+ - Commit that file to your GitHub repository using _GitHub Desktop_.
+ - Press the "Magic Button" in _GitHub Desktop_ to upload it to the GitHub.com website.
+ - View your repository on GitHub.com.
+ - View your website using GitHub pages.
 
 ## Watch YouTube Video
 Learn HTML in 15 minutes (video)
@@ -19,7 +21,7 @@ https://youtu.be/PY2RLgTmiZY
 
 ## Self Learning
 1.  Spend some time learning on your own. You can use Google or YouTube or anything else that will help you learn. You can pick what you would like to learn about: HTML, CSS or Javascript. You may choose to begin a tutorial on CodeCademy, this is a good one:
-https://www.codecademy.com/learn/learn-html-css
+(https://www.codecademy.com/learn/learn-html-css)[https://www.codecademy.com/learn/learn-html-css]
 
 ## Resources
 ### Here is a list of resources you may find interesting.
