@@ -8,12 +8,7 @@
 
 
 ## Project
-1. Create your website home page
- - In Atom, create a file named index.html. Make sure it’s inside your project folder.
- - Commit that file to your GitHub repository using _GitHub Desktop_.
- - Press the "Magic Button" in _GitHub Desktop_ to upload it to the GitHub.com website.
- - View your repository on GitHub.com.
- - View your website using GitHub pages.
+1. Write a little about yourself in the "about" page. 
 
 ## Watch YouTube Video
 Learn HTML in 15 minutes (video)
