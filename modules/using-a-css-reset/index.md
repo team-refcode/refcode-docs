@@ -6,7 +6,7 @@ To illustrate how CSS resets affect the way a page looks, let's look at the firs
 
 Without CSS Reset | With a CSS Reset
 ----------------- | ----------------
-[without-css-reset](./without-css-reset.gif) | [with-css-reset](./with-css-reset.gif)
+![without-css-reset](./without-css-reset.gif) | ![with-css-reset](./with-css-reset.gif)
 
 
 ## Why Use a CSS Reset?
