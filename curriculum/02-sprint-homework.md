@@ -1,25 +1,19 @@
 # Sprint 2 Homework
 
-## Exercises
+## Homework
 1. Make sure you have a profile photo in Slack. (2-5 minutes)
 1. Post a screenshot of your computer to Slack. (2 minutes)
+1. Write a little about yourself in the "about.html" page.
 1. Use your keyboard to perform a swapkown on your GYRT. (10 Seconds)
 1. Play the (Brainload)[https://brentonstrine.github.io/brainload/] javascript game for 5 minutes. (5 mins)
 
-
-## Project
-1. Write a little about yourself in the "about" page. 
-
-## Watch YouTube Video
-Learn HTML in 15 minutes (video)
-https://youtu.be/PY2RLgTmiZY
-
 ## Self Learning
-1.  Spend some time learning on your own. You can use Google or YouTube or anything else that will help you learn. You can pick what you would like to learn about: HTML, CSS or Javascript. You may choose to begin a tutorial on CodeCademy, this is a good one:
-(https://www.codecademy.com/learn/learn-html-css)[https://www.codecademy.com/learn/learn-html-css]
+1. Spend some time learning on your own. You can use Google or YouTube or anything else that will help you learn. You can pick what you would like to learn about: HTML, CSS or Javascript. You may choose to begin a tutorial on CodeCademy, this is a good one:
+(Learn HTML and CSS)[https://www.codecademy.com/learn/learn-html-css]
+1. Watch "Learn HTML in 15 minutes" (video)[https://youtu.be/PY2RLgTmiZY]
 
 ## Resources
-### Here is a list of resources you may find interesting.
+
 Some important HTML elements:
 
 |Tag|		Semantic Meaning|
