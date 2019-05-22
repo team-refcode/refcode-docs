@@ -20,3 +20,6 @@ Reinforicng the fundamentals we've learned so far and build on experience.
 
 ## Homework
 [Homework for Sprint 3](./03-sprint-homework)
+
+---
+<< [Back to curriculum overview](https://glover.io/refcode-docs/curriculum/)
