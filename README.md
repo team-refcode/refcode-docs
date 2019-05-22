@@ -1,4 +1,4 @@
 # Refcode Documentatation
 
 ## Curriculum
-[View Curriculum](./curriculum)
+[View Curriculum](https://glover.io/refcode-docs/curriculum)
