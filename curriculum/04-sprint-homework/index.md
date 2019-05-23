@@ -1,4 +1,4 @@
-# Sprint 3 Homework
+# Sprint 4 Homework
 
 ## Slack
 Send a message “Hello, I am starting my homework!” to the `#general` room on Slack.  Remember to ask for help if you are getting stuck.

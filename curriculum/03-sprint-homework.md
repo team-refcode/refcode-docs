@@ -1,4 +1,4 @@
-# Sprint 2 Homework
+# Sprint 3 Homework
 
 ## Homework
 1. Post a screenshot of your computer to Slack. (2 minutes)
