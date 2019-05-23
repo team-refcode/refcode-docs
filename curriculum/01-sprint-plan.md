@@ -23,5 +23,5 @@ Broad and shallow introduction to almost everything that will be taught in the c
 ## Self Assessment
 [Sprint 1 Self Assessment](./01-sprint-1-self-test)
 
-
+---
 << [Back to curriculum overview](https://glover.io/refcode-docs/curriculum/)
