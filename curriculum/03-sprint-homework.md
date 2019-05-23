@@ -2,8 +2,9 @@
 
 ## Homework
 1. Post a screenshot of your computer to Slack. (2 minutes)
-1. Sketching a design for your website and share on Slack. Try to make 3 or more variations to get started.
-1. Write a little about yourself in the "about.html" page.
+1. Post a link to your website in the `#project-website-links` Slack channel. 
+1. Sketching a design for your website and share with your study group on Slack. Try to make 3 or more variations to get started.
+1. Create a `style.css` file that will contain all your CSS and add a link to it on your homepage. [Here's a review of what we did in class](https://glover.io/refcode-docs/modules/using-css-to-style-html/)
 1. Play the [Brainload](https://brentonstrine.github.io/brainload/) javascript game for 5 minutes. (5 mins)
 
 ## Self Learning
@@ -23,3 +24,5 @@ Reddit is a website that allows small communities to form on any topic. The /r/l
 ### Stack Overflow
 Stack Overflow is a website for asking technical questions about computers, code, and developer tools. You may wish to create an account and begin asking some questions and earning points. It would be a good goal to get to 15 points by the end of this course.
 
+---
+<< [Back to Sprint 3 plan](https://glover.io/refcode-docs/curriculum/03-sprint-plan)
