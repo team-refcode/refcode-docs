@@ -38,3 +38,6 @@ Commit all changes to your repo and push your changes to GitHub.
 
 ## Self Learning
 Spend some time learning on your own. You can use Google or YouTube or anything else that will help you learn. Try exploring a topic on HTML or CSS that you can share with the class!
+
+---
+<< [Back to Sprint 4](https://glover.io/refcode-docs/curriculum/04-sprint-plan)
