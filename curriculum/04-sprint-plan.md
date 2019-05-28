@@ -1,12 +1,13 @@
 # Sprint 4 Lesson Plan
 
-Reinforicng the fundamentals we've learned so far and build on experience.
+Strengthening our understanding on using CSS to style HTML. 
 
-## Learning Goals for Sprint 3
+## Learning Goals for Sprint 4
+* Build a better understanding of how the web works
+* Review CSS rules, properties, and selectors by tag name
+* Introduce CSS selectors by class name
 * Overview personal site project and MVP
 * Reinforce common vocabulary for development (local, save, refresh, render, etc...)
-* Review the basic HTML elements and their purpose
-* Push code to Github repository from local machine
 
 ## Modules
 1. [HTTP Request Workshop](../modules/http-requests)
