@@ -1,4 +1,11 @@
-# Minimum Viable Product Details
+# Project Overview
+
+In this class you will be working towards the goal of building your own complete website. Along the way you will learn not only code but a wide range tools, concepts, and technologies required to build and publish a website. In order to graduate you must complete the project before the last day of class. 
+
+To see examples of former graduate’s final projects, visit [https://refcode.org/graduates.html](https://refcode.org/graduates.html)
+
+## Minimum Viable Product Details
+
 Half way through the class, you will need to complete at least a rough version of your final site. This will be a website that meets a minimum set of requirements but is still in need of additional work and refinement - this is also known as a **minimum viable product**.
 
 A **minimum viable product (MVP)** is a product with just enough features to satisfy early customers, and to provide feedback for future product development. When developing new products, we use the concept of minimum viable product to limit scope and define the steps needed for success.
