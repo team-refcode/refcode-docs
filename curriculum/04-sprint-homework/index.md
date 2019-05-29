@@ -1,42 +1,48 @@
 # Sprint 4 Homework
 
-## Slack
+## 1. Send Slack Message
+
 Send a message “Hello, I am starting my homework!” to the `#general` room on Slack.  Remember to ask for help if you are getting stuck.
 
-## Video 
-- [How to use the <link> tag for an external stylesheet.](https://www.youtube.com/watch?v=sfhMnPb2Bd0)
+## 2. CSS Challenges
 
-## CSS Challenges
+Need help linking your CSS files? Watch the video: [How to use the \<link\> tag for an external stylesheet.](https://www.youtube.com/watch?v=sfhMnPb2Bd0)
+
 - Open [css2.html](./challenges/css-2.html) and complete the challenge.
 - Open [css3.html](./challenges/css-3.html) and complete the challenge.
 - Open [css4.html](./challenges/css-4.html) and complete the challenge.
 
-## Work on your Project
-Remember, our website should have all of the following pages:
+## 3. Begin Project
+
+Your website should have all of the following pages:
+
 * Homepage (index.html)
-* About page (mystory.html)
-* Links page
-* Resume page
+* About page (about.html)
 
-On the home page, use the `<img>` tag to display the picture taken of you during class.
+The pages should `<link>` the following CSS files:
 
-Your website should have a header (the name of your website) that is the same on all pages. This way we know we are on the same website as we change pages.
+* `styles/styles.css`
+* `styles/reset.css`
 
-Your website should have a navigation section with a link to each page on your site.
+> ❗️Notice the CSS files are in a seperate `styles/` folder! It is helpful to keep your HTML and CSS files organized. 
 
-The current page you are on should be visually different (e.g. bold or a different color)
+### Homepage requirements
 
-If you haven't already, add the `reset.css` file to the `styles` folder of your repo.
+* Use the `<img>` tag to display a picture of you.
+* Link to the `about.html` page
+* Begin to style your document using CSS in your `style.css` file.
+* Add the `reset.css` file to the `styles` folder of your repo.
+* Reference your [website sketch](../../modules/using-css-to-style-html) to add elements, such as a header or sidebar, to your website.
 
-Create a new file called `style.css` in the `styles` folder of your repo. **For the project site, we are only going to write CSS in this file from now on.** Link to it using `<link>` (see video above for help).
+### About page requirements
 
-Begin to style your document using CSS in your `style.css` file. 
+* Link to `index.html` (Homepage)
+* Write your "developer story". This is a paragraph or list of your experience with computers up to this point.
 
-Reference your [website sketch](../../modules/using-css-to-style-html) to add elements, such as a header or sidebar, to your website.
+Commit all changes to your repo and **push your changes to GitHub**.
 
-Commit all changes to your repo and push your changes to GitHub.
+## 4. Self Learning
 
-## Self Learning
 Spend some time learning on your own. You can use Google or YouTube or anything else that will help you learn. Try exploring a topic on HTML or CSS that you can share with the class!
 
 ---
