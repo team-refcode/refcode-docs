@@ -15,7 +15,7 @@ Expanding on CSS foundations to define layouts and introducing interactivity via
 1. [Using Javascript with HTML](../modules/using-js-with-html)
 
 ## Homework
-[Homework for Sprint 5](./05-sprint-homework)
+[Homework for Sprint 5](./05-sprint-homework/)
 
 ---
 << [Back to curriculum overview](https://glover.io/refcode-docs/curriculum/)
