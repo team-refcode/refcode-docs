@@ -60,7 +60,7 @@ Example:
 
 ```
 
-##  💃 Exercise! 🕺
+##  💃 Exercise! 🕺 
 
 In your web project do the following:
 
