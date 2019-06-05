@@ -10,7 +10,7 @@ Expanding on CSS foundations to define layouts and introducing interactivity via
 
 ## Modules
 1. [Project Introduction](../modules/project/mvp)
-1. [Using CSS class selectors](../modules/using-css-class-selectors)
+1. [Using CSS class selectors](../modules/using-class-css-selectors)
 1. [Intro to Javascript](../modules/intro-to-js)
 1. [Using Javascript with HTML](../modules/using-js-with-html)
 
