@@ -5,14 +5,13 @@ Expanding on CSS foundations to define layouts and introducing interactivity via
 ## Learning Goals for Sprint 5
 * Review personal site project and MVP
 * Strengthen understanding of CSS selectors by class name
-* Introduce Javascript, how it works, and how it can be implemented
 * Reinforce common vocabulary for development (git, push, fetch, stylesheet, local, source...)
 
 ## Modules
 1. [Project Introduction](../modules/project/mvp)
+1. [Review: Using HTML Tags](../modules/using-html-tags)
 1. [Using CSS class selectors](../modules/using-class-css-selectors)
-1. [Intro to Javascript](../modules/intro-to-js)
-1. [Using Javascript with HTML](../modules/using-js-with-html)
+1. Making a dropdown menu using only CSS
 
 ## Homework
 [Homework for Sprint 5](./05-sprint-homework/)
