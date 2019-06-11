@@ -1,6 +1,6 @@
 # Sprint 5 Lesson Plan
 
-Expanding on CSS foundations to define layouts and introducing interactivity via Javascript.
+Expanding on CSS foundations to define layouts and interactivity.
 
 ## Learning Goals for Sprint 5
 * Review personal site project and MVP
