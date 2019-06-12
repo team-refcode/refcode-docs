@@ -51,7 +51,7 @@ The `<script>` tag can be placed anywhere in either the `<head>` or the `<body>`
 
 What happens happen if the `<script>` tag is placed in the `<head>` of the document? Consider a really long JavaScript file (5 million lines of code).
 
-✅ `<script>` tags should be located at the end of the `<body>`
+✅ `<script>` tags should be located at the end of the `<body>`. This way the browser renders the HTML code before reading the JavaScript code (which can be slow for big files).
 </details>
 
 ### 2. External script
