@@ -9,6 +9,9 @@ CSS Grid the most powerful way to develop layouts on the web. By default, we are
 
 ## Now let's look at how we could make this on the web
 * [Big center content](https://glover.io/refcode-class/posters/01-poster.html)
+* [Overlapping Elements](https://codepen.io/kevinglover/full/rKOLrE)
+* [Horizontal Text](https://codepen.io/kevinglover/full/oyXZdy)
+* [Dynamic Designs](https://codepen.io/kevinglover/full/NzqgwB)
 * [Building around white space](https://labs.jensimmons.com/2019/01-001.html)
 * [Deconstructed Design](https://labs.jensimmons.com/2019/01-006.html)
 
