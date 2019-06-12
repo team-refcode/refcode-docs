@@ -2,7 +2,7 @@
 
 Expanding on CSS foundations to define layouts and introducing interactivity via Javascript.
 
-## Learning Goals for Sprint 5
+## Learning Goals for Sprint 6
 * Review personal site project and MVP
 * Strengthen understanding of CSS selectors by class name
 * Introduce Javascript, how it works, and how it can be implemented
