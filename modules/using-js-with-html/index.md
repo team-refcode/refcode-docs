@@ -6,7 +6,7 @@ Let's review the three primary programming languages that are used to build webs
 
  - HTML: the **content** of the page
  - CSS: **styles** the content
- - JavaScript: interaction and DOM updates
+ - JavaScript: **interaction** and **changing** the page
  
 ## JavaScript Examples
 
@@ -26,17 +26,20 @@ Remember how there are multiple ways to add CSS to an HTML page? (hint: using th
 
 ### 1. The `<script>` tag
 
-The `<script>` tag is a special HTML tag which is used to writing script languages inside of an HTML file. When writing JavaScript inside of a `<script>` tag, we should specify that the script is written in the JavaScript language.
+The `<script>` tag is a special HTML tag which is used to write JavaScript inside of an HTML file.
 
 Here's an example:
 
 ```html
-<script type="text/javascript">
+<script">
 
- // JavaScript code goes here
+// JavaScript code goes here
+console.log("Hello from JavaScript");
  
 </script>
 ```
+
+> Live Demo 
 
 #### ❓ Where does the `<script>` tag go? ❓
 
@@ -77,14 +80,14 @@ Example:
 <html>
 
 <head>
-	<title>My HTML page</title>
-	<meta charset="UTF-8" />
+    <title>My HTML page</title>
+    <meta charset="UTF-8" />
 </head>
 
 <body>
- <h1>This is my page</h1>
+    <h1>This is my page</h1>
  
- <script src="./main.js"></script>
+    <script src="./main.js"></script>
 </body>
 
 </html>
@@ -94,4 +97,71 @@ Example:
 
 ```js
 alert("Hello world!");
+```
+
+## JavaScript Features
+
+### 1. Variables
+
+Variables allow you to store a value for later. We can store all sort of things: text, numbers, even DOM nodes!
+
+💃 **Exercise!** 🕺
+
+1. Update your `main.js` file to include a variable.
+1. Use the `alert()` function to show the value of this variable
+1. Change the variable to your name!
+1. Try adding multiple `alert()` call and updating the variable inbetween **calls** 
+
+---
+
+Answer:
+
+```js
+
+var name = "Carson";
+alert("Hello " + name);
+
+name = "Kevin";
+alert("Hello " + name);
+
+```
+
+> Live Demo
+
+### 2. Functions
+
+Functions allow you to wrap code that can be run later. This is a similar idea to variables execpt we are storing code to be run later, as opposed to simple values.
+
+There are two basic phases of functions
+
+1. **Defining** the function
+1. **Calling** the function
+
+```js
+// define
+function showAlert() {
+  alert("Hello from function!");
+}
+
+// call
+showAlert();
+```
+
+> Live Demo
+
+### 3. The `document`
+
+The `document` is a special variable that is always available inside of the browser. It stores the entire HTML document in JavaScript and has special functions that we use to interact with the HTML document.
+
+Lets say we wanted to add a button that increased a counter every time it is clicked. We could use the `document` **variable** to listen for button clicks and then update the counter text when ever the button is clicked.
+
+```js
+var count = 0;
+var button = document.querySelector("button");
+var outputDiv = document.querySelector("div.output");
+
+button.addEventListener("click", function(event) {
+    count = count + 1;
+    outputDiv.innerHTML = count;
+}
 ```
