@@ -156,12 +156,18 @@ The `document` is a special variable that is always available inside of the brow
 Lets say we wanted to add a button that increased a counter every time it is clicked. We could use the `document` **variable** to listen for button clicks and then update the counter text when ever the button is clicked.
 
 ```js
-var count = 0;
+// store HTML elements as variables to use later
 var button = document.querySelector("button");
 var outputDiv = document.querySelector("div.output");
 
+// start count at 0
+var count = 0;
+
 button.addEventListener("click", function(event) {
-    count = count + 1;
-    outputDiv.innerHTML = count;
-}
+  // increase the count variable
+  count = count + 1;
+
+  // update the HTML with new count
+  outputDiv.innerHTML = count;
+});
 ```
