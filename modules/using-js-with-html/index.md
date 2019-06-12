@@ -149,7 +149,7 @@ showAlert();
 
 > Live Demo
 
-### 3. The `document`
+### 3. The `document` variable
 
 The `document` is a special variable that is always available inside of the browser. It stores the entire HTML document in JavaScript and has special functions that we use to interact with the HTML document.
 
