@@ -41,15 +41,18 @@ console.log("Hello from JavaScript");
 
 > Live Demo 
 
-#### ❓ Where does the `<script>` tag go? ❓
 
-What are the options? 
+#### ❓ Where does the `<script>` tag go in the html file? ❓
+
+<details>
+ <summary>Answer</summary>
 
 The `<script>` tag can be placed anywhere in either the `<head>` or the `<body>` of the HTML document. However, there is a difference between them!
 
 What happens happen if the `<script>` tag is placed in the `<head>` of the document? Consider a really long JavaScript file (5 million lines of code).
 
 ✅ `<script>` tags should be located at the end of the `<body>`
+</details>
 
 ### 2. External script
 
