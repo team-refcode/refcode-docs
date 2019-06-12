@@ -3,15 +3,16 @@
 Expanding on CSS foundations to define layouts and introducing interactivity via Javascript.
 
 ## Learning Goals for Sprint 6
-* Review personal site project and MVP
-* Strengthen understanding of CSS selectors by class name
-* Introduce Javascript, how it works, and how it can be implemented
-* Reinforce common vocabulary for development (git, push, fetch, stylesheet, local, source...)
+* Introduce Javascript, what is it, how to start using JavaScript on your site.
+* How to use CSS to create consistent reusable layouts.
+* Work on personal project and site MVP
 
-## Modules
-1. Review: [Using CSS class selectors](../modules/using-class-css-selectors)
+
+## Agenda
 1. [Intro to Javascript](../modules/intro-to-js)
 1. [Using Javascript with HTML](../modules/using-js-with-html)
+1. Review: [Using CSS class selectors](../modules/using-class-css-selectors)
+1. Project work
 
 ## Homework
 [Homework for Sprint 6](./06-sprint-homework)
