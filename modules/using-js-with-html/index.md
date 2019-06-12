@@ -171,3 +171,9 @@ button.addEventListener("click", function(event) {
   outputDiv.innerHTML = count;
 });
 ```
+
+## Further Reading
+
+ - [MDN Learn Web Development / JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+ - [Codecademy / Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+ - Google "learn JavaScript" - try different websites and YouTube channels!
