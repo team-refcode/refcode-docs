@@ -9,8 +9,7 @@ Expanding on CSS foundations to define layouts and introducing interactivity via
 
 
 ## Agenda
-1. [Intro to Javascript](../modules/intro-to-js)
-1. [Using Javascript with HTML](../modules/using-js-with-html)
+1. [Javascript with HTML](../modules/using-js-with-html)
 1. Review: [Using CSS class selectors](../modules/using-class-css-selectors)
 1. Project work
 
