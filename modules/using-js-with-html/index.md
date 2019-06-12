@@ -31,7 +31,7 @@ The `<script>` tag is a special HTML tag which is used to write JavaScript insid
 Here's an example:
 
 ```html
-<script">
+<script>
 
 // JavaScript code goes here
 console.log("Hello from JavaScript");
