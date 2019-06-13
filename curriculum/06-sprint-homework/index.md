@@ -37,8 +37,8 @@ Original | With Guidelines
 
 > Look for where there are breaks in the horizontal and vertical flow. Do any sections look like a box? That might be a good place to start!
 
-*How would you go about making this using CSS Grid?*
-Share your examples with your Study Group, so you can all work together. Maybe they will have some ideas!
+3. How would you go about making this using CSS Grid?
+4. Share your examples with your Study Group, so you can all work together. Maybe they will have some ideas!
 
 
 ## 4. Self Learning
