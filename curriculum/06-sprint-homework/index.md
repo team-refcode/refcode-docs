@@ -28,6 +28,8 @@ We are going to use something new for this exercise - CodePen. This will allow y
 7. For an extra challenge, try to make it so the arrow hits the target when you click it!
 
 ### CSS Grid
+CSS Grid allows us to do a lot more with our website design. To get more practice building sites using CSS Grid, it good to start with a design in mind. It's OK to experiment!
+
 1. Find a poster, billboard, or a magazine spread that you think would look cool.
 2. Try to find the grid pattern on display, like below:
 
@@ -54,4 +56,4 @@ Review some Javascript or CSS Grid topics! Share in your study groups things tha
 * [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ---
-<< [Back to Sprint 6](./06-sprint-plan)
+<< [Back to Sprint 6](../06-sprint-plan)
