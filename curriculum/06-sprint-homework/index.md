@@ -29,11 +29,13 @@ We are going to use something new for this exercise - CodePen. This will allow y
 
 ### CSS Grid
 1. Find a poster, billboard, or a magazine spread that you think would look cool.
-2. Try to find the grid pattern on display, like below
+2. Try to find the grid pattern on display, like below:
 
 Original | With Guidelines
 ---------|----------------
 ![Original Yellow Poster](./06-sprint-homework-2.jpg) | ![Yellow Poster with Guidelines](./06-sprint-homework-3.jpg)
+
+> Look for where there are breaks in the horizontal and vertical flow. Do any sections look like a box? That might be a good place to start!
 
 *How would you go about making this using CSS Grid?*
 Share your examples with your Study Group, so you can all work together. Maybe they will have some ideas!
