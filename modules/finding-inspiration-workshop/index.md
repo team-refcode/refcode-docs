@@ -36,7 +36,7 @@ There are a few questions to ask when looking at the following pages
 
 
 ### Steps
-1. Create a new folder in your project repository called `projects`
+1. Create a new folder in your project repository called `labs`
 1. In this folder, create another folder called `sprint-07`
 1. Create a new html file called `index.html`
 1. Here we are going to try to recreate some parts of the Safari Riot page. *What does the basic structure look like?*
