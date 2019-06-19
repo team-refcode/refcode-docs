@@ -14,3 +14,4 @@ Most of the structured learning happened in the first 5 sprints. After that, it 
 - [Sprint 4 Plan](./04-sprint-plan)
 - [Sprint 5 Plan](./05-sprint-plan)
 - [Sprint 6 Plan](./06-sprint-plan)
+- [Sprint 7 Plan](./07-sprint-plan)
