@@ -1,3 +1,11 @@
+---
+layout: default
+title: Level 1 Course
+nav_order: 2
+has_children: true
+permalink: /curriculum/level-1
+---
+
 # Level 1 Course Overview
 
 The curriculum is broken into sprints, each sprint being one week long. The lesson plans and homework for each sprint are created each week based on what was covered in the previous class and the students needs.
