@@ -1,3 +1,11 @@
+---
+layout: default
+title: Curriculum
+nav_order: 1
+has_children: true
+permalink: /curriculum
+---
+
 # Curriculum
 
 ## Level 1
