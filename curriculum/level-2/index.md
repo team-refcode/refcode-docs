@@ -2,6 +2,7 @@
 layout: default
 title: Level 2 Course
 nav_order: 2
+parent: Curriculum
 has_children: true
 permalink: /curriculum/level-2
 ---
