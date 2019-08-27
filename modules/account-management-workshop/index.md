@@ -1,3 +1,11 @@
+---
+layout: default
+title: Account Management Workshop
+
+parent: Learning Modules
+permalink: /modules/account-management-workshop
+---
+
 # Account Management Workshop
 In this class, (and in life!) you will be creating many accounts and managing many usernames and passwords. It is not acceptable to memorize your usernames and login info. It is not acceptable to re-use the same password across multiple accounts. Not only is doing so a security vulnerability, but it will slow down your progress and puts your work at risk should you forget some account information. 
 
@@ -8,8 +16,8 @@ This workshop will walk you through how to use the password manager built-in to 
 
 ## Log in to Chrome with your Google account
 1. Click the little icon of a person in the top-right corner of the browser.
-1. Follow steps to sign in using your Gmail or Google account info. (Android Users: Log in using the same google account that you use to log into your phone. Do not create multiple google accounts!)
-1. Write your Google password down somewhere on paper. Take care of it the way you would take care of money. Most hacking is done by bots, and bots cannot read your password off of a piece of paper, so this is in fact one of the safest places to put your password.
+2. Follow steps to sign in using your Gmail or Google account info. (Android Users: Log in using the same google account that you use to log into your phone. Do not create multiple google accounts!)
+3. Write your Google password down somewhere on paper. Take care of it the way you would take care of money. Most hacking is done by bots, and bots cannot read your password off of a piece of paper, so this is in fact one of the safest places to put your password.
 
 ## Save a new account with the Chrome password manager (Smart Lock)
 1. Create a GitHub account here: [https://github.com/join?source=header-home](https://github.com/join?source=header-home)

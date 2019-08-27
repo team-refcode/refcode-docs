@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using HTML Tags
+
+parent: Learning Modules
+permalink: /modules/using-html-tags
+---
+
 # Using HTML Tags
 How we build HTML pages is based off the history of how the web was first imagined and implemented. In the beginning, the web was developed to be a sharing place for scientific documentation. It was expanded to share news articles and blog posts. While the uses of the web has expanded drastically from the early days, the underlying principles and structure remain largely intact. The tags available in HTML reflect the history of the web as a way to create documents.
 

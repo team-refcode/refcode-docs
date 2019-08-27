@@ -1,3 +1,11 @@
+---
+layout: default
+title: Introduction to JS
+
+parent: Learning Modules
+permalink: /modules/intro-to-js
+---
+
 # Introduction to Javascript
 * Learn that websites can be more than just documents, and that Javascript is the language that makes interaction possible. 
 * Learn that random text in Javascript is by default interpreted as code, but that Javascript also expects values in certain places. 

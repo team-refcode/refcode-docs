@@ -1,3 +1,11 @@
+---
+layout: default
+title: Linking Pages
+
+parent: Learning Modules
+permalink: /modules/linking-pages
+---
+
 # Linking pages in HTML
 Links are a vital part of HTML and the very reason why the web exists. In HTML, links are created using the **anchor tag**, `<a>`.
 

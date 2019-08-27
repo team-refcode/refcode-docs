@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using a CSS Reset
+
+parent: Learning Modules
+permalink: /modules/using-a-css-reset
+---
+
 # Using a CSS Reset
 A **CSS Reset** (or “Reset CSS”) is a short, often compressed (minified) set of CSS rules that resets the styling of all HTML elements to a consistent baseline. In case you didn't know, every browser has its own default 'user agent' stylesheet, that it uses to make unstyled websites appear more legible.
 

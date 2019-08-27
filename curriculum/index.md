@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Curriculum
-nav_order: 1
+nav_order: 2
 has_children: true
 permalink: /curriculum
 ---
@@ -9,7 +9,7 @@ permalink: /curriculum
 # Curriculum
 
 ## Level 1
-[Level 1 Curriculum](./curriculum/level-1)
+[Level 1 Curriculum](./level-1)
 
 ## Level 2
-[Level 2 Curriculum](./curriculum/level-2)
+[Level 2 Curriculum](./level-2)

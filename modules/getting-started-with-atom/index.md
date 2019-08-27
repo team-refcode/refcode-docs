@@ -1,3 +1,11 @@
+---
+layout: default
+title: Getting started with Atom
+
+parent: Learning Modules
+permalink: /modules/getting-started-with-atom
+---
+
 # Getting started with Atom
 
 A text editor is at the core of a developer’s toolbox. Atom is a powerful text editor used by a large number of developers across multiple deciplines. Due to its popularity and ease of use, Atom is our perferred text editor for this course. 

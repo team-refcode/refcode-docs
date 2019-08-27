@@ -1,3 +1,11 @@
+---
+layout: default
+title: Getting Started with Slack
+
+parent: Learning Modules
+permalink: /modules/getting-started-with-slack
+---
+
 # Getting Started with Slack
 Slack is a tool that allows teams to communicate quickly and efficiently. It is instant like texting, but it is powerful like email. We will use it for all communication in this class. You can use it for things like:
 

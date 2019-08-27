@@ -1,4 +1,12 @@
-# Downloading the Refcode Repositiory from Github
+---
+layout: default
+title: Downloading the Refcode Repository from Github
+
+parent: Learning Modules
+permalink: /modules/downloading-refcode-repo
+---
+
+# Downloading the Refcode Repository from Github
 
 1. Go to the [GitHub Refcode repository](https://github.com/brentonstrine/Refcode)
 1. On that page, click “Clone or Download” and then “Download ZIP”. <br/> <img width="300px" src="./downloading-refcode-repo-1.png" alt="Download Refcode Repo" /> <br/>This will download the Refcode repository as a .zip file. <br/> **Hint**: *Where did you download it to?*

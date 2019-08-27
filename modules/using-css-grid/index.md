@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using CSS Grid
+
+parent: Learning Modules
+permalink: /modules/using-css-grid
+---
+
 # Using CSS Grid to make beautiful websites 
 CSS Grid the most powerful way to develop layouts on the web. By default, we are restricted to only laying out objects in one dimension. With CSS Grid, we can place elements in 2 dimensions. 
 

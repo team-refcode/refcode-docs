@@ -1,3 +1,11 @@
+---
+layout: default
+title: Agile Methodology
+
+parent: Learning Modules
+permalink: /modules/agile-methodology
+---
+
 ## Agile Methodology
 ### Kanban
 Creating a Trello account serves to put into practice the skills learned for account creation and password management. Kanban boards are also a good introduction to Agile Methodology, as they quickly create the need for backlog grooming, sprint planning, and other agile practices. 

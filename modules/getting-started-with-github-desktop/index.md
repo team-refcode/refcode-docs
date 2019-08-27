@@ -1,3 +1,11 @@
+---
+layout: default
+title: Getting Started with Github Desktop
+
+parent: Learning Modules
+permalink: /modules/getting-started-with-github-desktop
+---
+
 # Getting Started with Github Desktop
 You will be installing a program on your computer called GitHub desktop. This is a program that makes using git and GitHub easier. It also allows you to upload copies of your work to the GitHub website. Once you install it, you’ll want to move all work to your working directory.
 
