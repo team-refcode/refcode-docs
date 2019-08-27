@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using Classes in CSS
+
+parent: Learning Modules
+permalink: /modules/using-class-css-selectors
+---
+
 # Using Classes in CSS
 CSS is the way we style HTML on the web. A CSS stylesheet is a list of CSS rules that apply to our HTML document. A CSS rule is composed of a **selector** and a set of **properties**. The selector tells us what to target and the properties are the styles we apply to *all* elements that match the selector.
 

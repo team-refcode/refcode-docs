@@ -1,3 +1,11 @@
+---
+layout: default
+title: Introduction to CSS Layout
+
+parent: Learning Modules
+permalink: /modules/intro-to-css-layout
+---
+
 # Introduction to CSS Layout
 
 CSS page layout techniques allow us to take elements contained in a web page and control where they are positioned relative to their default position in normal layout flow, the other elements around them, their parent container, or the main viewport/window.

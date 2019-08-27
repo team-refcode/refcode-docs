@@ -1,3 +1,11 @@
+---
+layout: default
+title: File types and encoding
+
+parent: Learning Modules
+permalink: /modules/file-types-and-encoding
+---
+
 # File types and encoding
 This section is an introduction to some of the necessary logistics of coding. Students should understand that code is stored in files, that different programs are able to decipher different types of code or encoding, and that it is possible for humans to write code using special plaintext editors.
 

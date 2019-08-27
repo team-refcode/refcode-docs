@@ -1,3 +1,11 @@
+---
+layout: default
+title: Viewing Source Code
+
+parent: Learning Modules
+permalink: /modules/viewing-source-code
+---
+
 # Viewing Source Code
 Elon Musk is an immigrant and an entrepreneur who built tech companies and is now a billionaire. By the end of this program, everyone will have built a website better than [the website Elon Musk built in July 2017.](https://twitter.com/elonmusk/status/885776126148083712)
 

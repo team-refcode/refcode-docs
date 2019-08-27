@@ -1,3 +1,11 @@
+---
+layout: default
+title: Structuring HTML Pages
+
+parent: Learning Modules
+permalink: /modules/structuring-html-pages
+---
+
 # Structuring HTML Pages
 Before we get started writing HTML, it's important to understand its basic structure. Just like any other language, if you don't use the right words or put them in the right order, it won't make any sense! In most cases, the browser will try to figure out the right formatting, but we should try our best to format it correctly ourselves.
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using Sketches to Design Websites
+
+parent: Learning Modules
+permalink: /modules/using-sketches-to-design-websites
+---
+
 # Using Sketches to Design Websites
 When you start designing a website, the first thing you may do is to start writing code - even before you have a idea of what you are building! This is a bad habit that may be hard to break. It's important to have a clear idea of what you are trying to accomplish before you start development. 
 

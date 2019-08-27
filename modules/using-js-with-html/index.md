@@ -1,3 +1,12 @@
+---
+layout: default
+title: Using JavaScript with HTML
+
+parent: Learning Modules
+permalink: /modules/using-js-with-html
+---
+
+
 # Using JavaScript with HTML
 
 JavaScript is a programming language that is used to change a website after the site has **rendered**. JavaScript is most often used to *respond to user actions*. This is called making a site **interactive**. Besides responding user action, JavaScript can also create and modify the DOM (HTML elements).

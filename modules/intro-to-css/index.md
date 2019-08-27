@@ -1,3 +1,10 @@
+---
+layout: default
+title: Introduction to CSS
+
+parent: Learning Modules
+permalink: /modules/intro-to-css
+---
 
 # Introduction to CSS
 * Learn that there are multiple types of coding languages and that they do different things. Different languages have different syntaxes that look very different. 

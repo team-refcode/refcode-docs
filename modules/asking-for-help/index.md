@@ -1,3 +1,11 @@
+---
+layout: default
+title: Asking for Help
+
+parent: Learning Modules
+permalink: /modules/asking-for-help
+---
+
 # Asking for Help
 
 Choosing the right balance and knowing when and how for help is a skill, and a skill you can learn.

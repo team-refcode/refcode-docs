@@ -1,3 +1,11 @@
+---
+layout: default
+title: Finding Inspiration Workshop
+
+parent: Learning Modules
+permalink: /modules/finding-inspiration-workshop
+---
+
 # Finding Inspiration Workshop
 When looking for things to build, we briefly touched on looking at other sites for ideas. It’s good practice to look at what others have built and try to figure out how they made it. This exercise helps us learn new things and find different ways to make cool things. More importantly, it’s a way to explore and discover what is possible on the web. Even if we can’t make it look exactly like the source, we will be able to learn something new. 
 

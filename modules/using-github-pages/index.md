@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using Github Pages
+
+parent: Learning Modules
+permalink: /modules/using-github-pages
+---
+
 # Using Github Pages
 Github pages is a way to host your website directly from your GitHub repository. We can use this method to quickly host websites because we don't need to setup and maintain our own servers.
 

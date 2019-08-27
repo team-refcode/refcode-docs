@@ -1,3 +1,11 @@
+---
+layout: default
+title: Course Requirements
+
+parent: Learning Modules
+permalink: /modules/course-requirements
+---
+
 # Course Requirements
 There are a few things that need to be completed before starting the course. This includes:
 * Introducing the teacher, the structure of the class, the times, durations, etc. 

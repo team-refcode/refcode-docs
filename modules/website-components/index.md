@@ -1,5 +1,13 @@
+---
+layout: default
+title: Website Components
+
+parent: Learning Modules
+permalink: /modules/website-components
+---
+
 # Website Components
-The “Better than Elon Musk” module is intended to teach all of the significant components of a website using an incredibly simple example. Elon Musk is an incredibly successful immigrant, and he happens to have a website x.com which (as of this writing) consists only of a single character: the letter x. This provides us with the opportunity to look at a lot of the different components of a website without being overwhelmed. The goal of students for the next class will be to create a website that has all of the components of x.com, plus something else, hence they will have built a website better than Elon Musk did.
+The “Better than Elon Musk” module ([Viewing Source Code](../modules/viewing-source-code)) is intended to teach all of the significant components of a website using an incredibly simple example. Elon Musk is an incredibly successful immigrant, and he happens to have a website x.com which (as of this writing) consists only of a single character: the letter x. This provides us with the opportunity to look at a lot of the different components of a website without being overwhelmed. The goal of students for the next class will be to create a website that has all of the components of x.com, plus something else, hence they will have built a website better than Elon Musk did.
 
 ## Digging into code
 Having been given a taste of HTML, CSS and Javascript last class, we now will take some time to give a proper introduction. Along the way students will also be forced to use GitHub and Atom and to develop an understanding of source code, rendered code, and the concept of “syntax.”

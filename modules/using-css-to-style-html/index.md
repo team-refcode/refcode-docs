@@ -1,3 +1,11 @@
+---
+layout: default
+title: Using CSS to Style HTML
+
+parent: Learning Modules
+permalink: /modules/using-css-to-style-html
+---
+
 # Using CSS to Style HTML
 CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
 

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Browser Rendering
+
+parent: Learning Modules
+permalink: /modules/browser-rendering
+---
+
 # Browser Rendering
 
 The most important tool in making a website is the browser. A browser (for example, Chrome) is a program that gets files from the internet, reads the code in those files, and displays the result in the webpage for you to see. 
