@@ -21,22 +21,22 @@ Students are initially introduced to new topics outside of the classroom and are
 The curriculum is broken into sprints, each sprint being one week long. The lesson plans and homework for each sprint are adapted each week based on progress from the previous class and the students needs.
 
 ### Registration and Review
-- [Sprint 0 Plan](../level-2/00-sprint-plan)
-- [Sprint 1 Plan](../level-2/01-sprint-plan)
+- [Sprint 0 Plan](../curriculum/level-2/00-sprint-plan)
+- [Sprint 1 Plan](../curriculum/level-2/01-sprint-plan)
 
 ### HTML & CSS Best Practices
-- [Sprint 2 Plan](../level-2/02-sprint-plan)
-- [Sprint 3 Plan](../level-2/03-sprint-plan)
-- [Sprint 4 Plan](../level-2/04-sprint-plan)
+- [Sprint 2 Plan](../curriculum/level-2/02-sprint-plan)
+- [Sprint 3 Plan](../curriculum/level-2/03-sprint-plan)
+- [Sprint 4 Plan](../curriculum/level-2/04-sprint-plan)
 
 ### JavaScript and Git
-- [Sprint 5 Plan](../level-2/05-sprint-plan)
-- [Sprint 6 Plan](../level-2/06-sprint-plan)
-- [Sprint 7 Plan](../level-2/07-sprint-plan)
+- [Sprint 5 Plan](../curriculum/level-2/05-sprint-plan)
+- [Sprint 6 Plan](../curriculum/level-2/06-sprint-plan)
+- [Sprint 7 Plan](../curriculum/level-2/07-sprint-plan)
 
 ### Website Performance and Optimization
-- [Sprint 8 Plan](../level-2/08-sprint-plan)
-- [Sprint 9 Plan](../level-2/09-sprint-plan)
+- [Sprint 8 Plan](../curriculum/level-2/08-sprint-plan)
+- [Sprint 9 Plan](../curriculum/level-2/09-sprint-plan)
 
 ### Wrapping up
 - Student Showcase
