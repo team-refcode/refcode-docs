@@ -18,10 +18,10 @@ Most of the structured learning happened in the first 5 sprints. After that, it 
 
 ## Sprints
 
-- [Sprint 1 Plan](../level-1/01-sprint-plan)
-- [Sprint 2 Plan](../level-1/02-sprint-plan)
-- [Sprint 3 Plan](../level-1/03-sprint-plan)
-- [Sprint 4 Plan](../level-1/04-sprint-plan)
-- [Sprint 5 Plan](../level-1/05-sprint-plan)
-- [Sprint 6 Plan](../level-1/06-sprint-plan)
-- [Sprint 7 Plan](../level-1/07-sprint-plan)
+- [Sprint 1 Plan](../curriculum/level-1/01-sprint-plan)
+- [Sprint 2 Plan](../curriculum/level-1/02-sprint-plan)
+- [Sprint 3 Plan](../curriculum/level-1/03-sprint-plan)
+- [Sprint 4 Plan](../curriculum/level-1/04-sprint-plan)
+- [Sprint 5 Plan](../curriculum/level-1/05-sprint-plan)
+- [Sprint 6 Plan](../curriculum/level-1/06-sprint-plan)
+- [Sprint 7 Plan](../curriculum/level-1/07-sprint-plan)
