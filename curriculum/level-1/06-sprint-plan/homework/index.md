@@ -64,4 +64,4 @@ Review some Javascript or CSS Grid topics! Share in your study groups things tha
 * [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ---
-<< [Back to Sprint 6](../06-sprint-plan)
+<< [Back to Sprint 6](../../06-sprint-plan)

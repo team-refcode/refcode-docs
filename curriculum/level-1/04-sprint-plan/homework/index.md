@@ -40,7 +40,7 @@ The pages should `<link>` the following CSS files:
 * Link to the `about.html` page
 * Begin to style your document using CSS in your `style.css` file.
 * Add the `reset.css` file to the `styles` folder of your repo.
-* Reference your [website sketch](../../modules/using-css-to-style-html) to add elements, such as a header or sidebar, to your website.
+* Reference your [website sketch](../../../../modules/using-css-to-style-html) to add elements, such as a header or sidebar, to your website.
 
 ### About page requirements
 
@@ -54,4 +54,4 @@ Commit all changes to your repo and **push your changes to GitHub**.
 Spend some time learning on your own. You can use Google or YouTube or anything else that will help you learn. Try exploring a topic on HTML or CSS that you can share with the class!
 
 ---
-<< [Back to Sprint 4](https://glover.io/refcode-docs/curriculum/04-sprint-plan)
+<< [Back to Sprint 4](../../04-sprint-plan)

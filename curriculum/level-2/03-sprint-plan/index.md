@@ -8,3 +8,6 @@ permalink: /curriculum/level-2/03-sprint-plan
 
 # Sprint 3
 CSS grid, flexbox, responsive CSS
+
+---
+<< [Back to curriculum overview](../level-2)

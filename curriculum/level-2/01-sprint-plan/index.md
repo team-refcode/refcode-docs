@@ -8,3 +8,6 @@ permalink: /curriculum/level-2/01-sprint-plan
 
 # Sprint 1
 Review HTML tags, CSS classes, and Github Desktop.
+
+---
+<< [Back to curriculum overview](../level-2)

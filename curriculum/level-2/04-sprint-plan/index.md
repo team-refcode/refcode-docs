@@ -8,3 +8,6 @@ permalink: /curriculum/level-2/04-sprint-plan
 
 # Sprint 4
 SASS for CSS, Github Pages, and Jekyll
+
+---
+<< [Back to curriculum overview](../level-2)

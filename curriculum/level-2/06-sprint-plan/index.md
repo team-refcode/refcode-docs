@@ -8,3 +8,6 @@ permalink: /curriculum/level-2/06-sprint-plan
 
 # Sprint 6
 JavaScript conditionals, functions, and loops
+
+---
+<< [Back to curriculum overview](../level-2)

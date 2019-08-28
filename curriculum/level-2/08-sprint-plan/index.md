@@ -8,3 +8,6 @@ permalink: /curriculum/level-2/08-sprint-plan
 
 # Sprint 8
 Chrome Developer Tools and accessibility
+
+---
+<< [Back to curriculum overview](../level-2)

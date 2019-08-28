@@ -18,14 +18,14 @@ Expanding on CSS foundations to define layouts and introducing interactivity via
 
 
 ## Agenda
-1. [Javascript with HTML](../modules/using-js-with-html)
-1. Review: [Using CSS class selectors](../modules/using-class-css-selectors)
-1. [Intro to CSS Layout](../modules/intro-to-css-layout)
-1. [Using CSS Grid](../modules/using-css-grid)
+1. [Javascript with HTML](../../../modules/using-js-with-html)
+1. Review: [Using CSS class selectors](../../../modules/using-class-css-selectors)
+1. [Intro to CSS Layout](../../../modules/intro-to-css-layout)
+1. [Using CSS Grid](../../../modules/using-css-grid)
 1. Project work
 
 ## Homework
 [Homework for Sprint 6](./homework)
 
 ---
-<< [Back to curriculum overview](https://glover.io/refcode-docs/curriculum/)
+<< [Back to curriculum overview](../../level-1)

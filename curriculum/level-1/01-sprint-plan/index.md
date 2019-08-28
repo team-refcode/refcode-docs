@@ -17,20 +17,20 @@ Broad and shallow introduction to almost everything that will be taught in the c
 
 
 ## Modules
-1. [Account Management Workshop](../modules/account-management-workshop)
-1. [Getting Started with Slack](../modules/getting-started-with-slack)
-1. [Asking for Help](../modules/asking-for-help)
-1. [Finding Answers using Google](../modules/finding-answers-using-google)
-1. [Getting Started with Atom](../modules/getting-started-with-atom)
-1. [File types and encoding](../modules/file-types-and-encoding)
-1. [Introduction to HTML](../modules/intro-to-html)
+1. [Account Management Workshop](../../../modules/account-management-workshop)
+1. [Getting Started with Slack](../../../modules/getting-started-with-slack)
+1. [Asking for Help](../../../modules/asking-for-help)
+1. [Finding Answers using Google](../../../modules/finding-answers-using-google)
+1. [Getting Started with Atom](../../../modules/getting-started-with-atom)
+1. [File types and encoding](../../../modules/file-types-and-encoding)
+1. [Introduction to HTML](../../../modules/intro-to-html)
 
 ## Homework
 1. [Brainload](https://brentonstrine.github.io/brainload/)
 1. [Youtube Resources for Sprint 1](https://www.youtube.com/watch?v=9yRvIE9hOJg&list=PLJqzUFK3oO7lDMAC7QeC-1lnTLNjVhWP4)
 
 ## Self Assessment
-[Sprint 1 Self Assessment](./01-sprint-1-self-test)
+[Sprint 1 Self Assessment](./self-test)
 
 ---
-<< [Back to curriculum overview](https://glover.io/refcode-docs/curriculum/)
+<< [Back to curriculum overview](../../level-1)

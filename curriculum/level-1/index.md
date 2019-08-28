@@ -4,6 +4,7 @@ title: Level 1 Course
 nav_order: 1
 parent: Curriculum
 has_children: true
+has_toc: false
 permalink: /curriculum/level-1
 ---
 

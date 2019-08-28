@@ -8,3 +8,6 @@ permalink: /curriculum/level-2/02-sprint-plan
 
 # Sprint 2
 HTML structure & semantics, CSS Atomic Design, and Web design
+
+---
+<< [Back to curriculum overview](../level-2)

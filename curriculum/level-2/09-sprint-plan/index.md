@@ -8,3 +8,6 @@ permalink: /curriculum/level-2/09-sprint-plan
 
 # Sprint 9
 Search Engine Optimization (SEO) and web performance
+
+---
+<< [Back to curriculum overview](../level-2)

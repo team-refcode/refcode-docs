@@ -33,4 +33,4 @@ Reddit is a website that allows small communities to form on any topic. The /r/l
 Stack Overflow is a website for asking technical questions about computers, code, and developer tools. You may wish to create an account and begin asking some questions and earning points. It would be a good goal to get to 15 points by the end of this course.
 
 ---
-<< [Back to Sprint 3 plan](https://glover.io/refcode-docs/curriculum/03-sprint-plan)
+<< [Back to Sprint 3 plan](../../03-sprint-plan)

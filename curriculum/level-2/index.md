@@ -4,6 +4,7 @@ title: Level 2 Course
 nav_order: 2
 parent: Curriculum
 has_children: true
+has_toc: false
 permalink: /curriculum/level-2
 ---
 
