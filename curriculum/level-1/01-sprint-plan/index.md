@@ -30,7 +30,7 @@ Broad and shallow introduction to almost everything that will be taught in the c
 1. [Youtube Resources for Sprint 1](https://www.youtube.com/watch?v=9yRvIE9hOJg&list=PLJqzUFK3oO7lDMAC7QeC-1lnTLNjVhWP4)
 
 ## Self Assessment
-[Sprint 1 Self Assessment](./self-test)
+[Sprint 1 Self Assessment](../01-sprint-plan/self-test)
 
 ---
 << [Back to curriculum overview](../../level-1)
