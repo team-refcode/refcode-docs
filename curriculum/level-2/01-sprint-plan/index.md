@@ -9,5 +9,9 @@ permalink: /curriculum/level-2/01-sprint-plan
 # Sprint 1
 Review HTML tags, CSS classes, and Github Desktop.
 
+## Review
+1. [HTML tags](../../modules/using-html-tags)
+2. [Structuring HTML tags](../../modules/structuring-html-pages)
+
 ---
 << [Back to curriculum overview](../level-2)
