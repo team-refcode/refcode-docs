@@ -23,7 +23,9 @@ An important part of being a professional software developer is the ability to c
 
 ### TODO
 * Setting up a Github project for this class and creating our first project.
-* Creating a common `blog` folder to record notes for the course.
+* Create a new repository `refcode-projects` to contiain the work for this course.
+* Create a `blog` folder for all the notes and homework reactions
+* Create our first blog post to get used to [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## At-home Assignments
 ### Review the terms to learn and basics on structuring HTML
