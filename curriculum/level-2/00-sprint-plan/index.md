@@ -29,9 +29,10 @@ An important part of being a professional software developer is the ability to c
 
 ## At-home Assignments
 ### Review the terms to learn and basics on structuring HTML
-1. [Terms to Learn - Level 2](../../modules/terms-to-learn/level-2)
-2. [Structuring HTML tags](../../modules/structuring-html-pages)
-3. [HTML tags](../../modules/using-html-tags)
+1. [Structuring HTML tags](../../modules/structuring-html-pages)
+2. [HTML tags](../../modules/using-html-tags)
+3. [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+4. [Terms to we will learn in Level 2](../../modules/terms-to-learn/level-2)
 
 ### Read these articles
 There is a mindset to professional programming that different than other professions. Self-motivation is strongly valued, and there is very important to show your work.
