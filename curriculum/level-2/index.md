@@ -22,6 +22,8 @@ The curriculum is broken into sprints, each sprint being one week long. The less
 
 ### Registration and Review
 - [Sprint 0 Plan](../curriculum/level-2/00-sprint-plan)
+
+### Working Collaboratively
 - [Sprint 1 Plan](../curriculum/level-2/01-sprint-plan)
 
 ### HTML & CSS Best Practices
