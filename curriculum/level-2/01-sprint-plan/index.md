@@ -32,6 +32,9 @@ I think I'll use it to format all of [my documents](../documents) from now on.
 ![Screenshot of Markdown](./images/screenshot-of-markdown.png)
 
 ## Things to look out for
+* Markdown is really good when I don't need to worry about styles
+* When you want to add styles, you have to build a new compiler :(
+
 
 [View more posts](../blog)
 
@@ -39,6 +42,7 @@ I think I'll use it to format all of [my documents](../documents) from now on.
 
 1. What is Markdown? 
 2. How does Markdown get converted?
+3. What is Markdown good for? What are some times when it would be better to write HTML?
 
 ### Creating Pull Requests
 For this assignment we are going to have students create a basic page on their projects repository as a new branch, then open a pull request for their changes. Next, we will pair up into groups where members will comment on each other's code. We will initially perform a code review face-to-face with one assigned reviewer, and then we will break for discussion.
@@ -62,6 +66,10 @@ When developing on your own, you have total control on what goes into your proje
 2. When I view my site on Github Pages, what am I viewing?
 
 ## At-home Assignment
+### HTML Best Practices
+### CSS naming conventions
+### Web design page layouts
+* [Beginning Graphic Design: Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8)
 
 ---
 << [Back to curriculum overview](../level-2)
