@@ -19,6 +19,27 @@ For this sprint, we are going to build on our previous knowledge of HTML, CSS, a
 ## In-class Assignment
 The goal of the in-class assignment is to bring clarity on using Github to create pull requests and cover some best practices when developing code collaboratively.
 
+### Understanding Markdown -> HTML and CSS
+Markdown is not HTML, but it is a syntax that translates to HTML. You cannot just view `.md` files in the browser - there has to be a program to convert it into HTML that browsers can render. 
+
+Let's try to convert the following markdown into HTML:
+```
+# Markdown Blog Post
+I *really* like using Markdown. It makes writing HTML so much easier!
+
+I think I'll use it to format all of [my documents](../documents) from now on.
+
+![Screenshot of Markdown](./images/screenshot-of-markdown.png)
+
+## Things to look out for
+
+[View more posts](../blog)
+
+```
+
+1. What is Markdown? 
+2. How does Markdown get converted?
+
 ### Creating Pull Requests
 For this assignment we are going to have students create a basic page on their projects repository as a new branch, then open a pull request for their changes. Next, we will pair up into groups where members will comment on each other's code. We will initially perform a code review face-to-face with one assigned reviewer, and then we will break for discussion.
 
