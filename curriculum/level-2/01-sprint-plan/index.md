@@ -16,8 +16,18 @@ For this sprint, we are going to build on our previous knowledge of HTML, CSS, a
 * How would you describe "Thinking like a Programmer?"
 * What was one web design trend you would like to try out?
 
+
+### Making Time to Code
+April is the CEO and Founder of Vogue & Code, an online resource for minorities in tech to explore the industry and find guidance on where to get started. Between running a business, working a full-time job, and various side-projects, she explains how she fits learning to code into her days in this video, [Making Time to Code](https://www.youtube.com/watch?v=1q-HgZvZhtE)
+
+Here’s what she recommended:
+* Create a detailed schedule and stick to i
+*  Code before your other obligations start
+* Try to sneak coding into smaller windows of availability, like lunch breaks
+
+
 ## In-class Assignment
-The goal of the in-class assignment is to bring clarity on using Github to create pull requests and cover some best practices when developing code collaboratively.
+The goal of the in-class assignment is to bring clarity on using Markdown. We will also explore using Github to create pull requests and cover some best practices when developing code collaboratively.
 
 ### Understanding Markdown -> HTML and CSS
 Markdown is not HTML, but it is a syntax that translates to HTML. You cannot just view `.md` files in the browser - there has to be a program to convert it into HTML that browsers can render. 
