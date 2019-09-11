@@ -85,7 +85,7 @@ When developing on your own, you have total control on what goes into your proje
 * [The Law of Similarity - Gestalt Principles](https://www.interaction-design.org/literature/article/the-law-of-similarity-gestalt-principles-1)
 * [The Building Blocks of Visual Design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design)
 
-### Writing Prompt
+## Writing Prompt
 What are your thoughts on the homework material? Think about:
 * What are the benefits of using HTML best practices?
 * What does BEM stand for? How does the naming convention differ from how you have written class names before?
