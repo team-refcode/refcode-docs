@@ -21,9 +21,9 @@ For this sprint, we are going to build on our previous knowledge of HTML, CSS, a
 April is the CEO and Founder of Vogue & Code, an online resource for minorities in tech to explore the industry and find guidance on where to get started. Between running a business, working a full-time job, and various side-projects, she explains how she fits learning to code into her days in this video, [Making Time to Code](https://www.youtube.com/watch?v=1q-HgZvZhtE)
 
 Here’s what she recommended:
-* Create a detailed schedule and stick to i
-*  Code before your other obligations start
-* Try to sneak coding into smaller windows of availability, like lunch breaks
+1. Create a detailed schedule and stick to it
+2. Code before your other obligations start
+3. Try to sneak coding into smaller windows of availability, like lunch breaks
 
 
 ## In-class Assignment
