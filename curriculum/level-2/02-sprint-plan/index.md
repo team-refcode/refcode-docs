@@ -35,7 +35,7 @@ Learning to code is skill similiar to learning an instrument, the only way to im
 
 **Exercise 📝**
 
-Find all of the HTML best practice errors on the worksheet. Explain how the error should be fixed and why the error is problematic in the numbered section below. [HTML Mistakes Worksheet](./html-mistakes.pdf)
+Find all of the HTML best practice errors on the worksheet. Explain how the error should be fixed and why the error is problematic in the numbered section below. <a href="./html-mistakes.pdf" type="application/pdf" target="_blank">HTML Mistakes Worksheet</a>
 
 ### CSS Best Practices
 
