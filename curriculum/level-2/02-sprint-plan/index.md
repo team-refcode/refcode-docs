@@ -39,7 +39,7 @@ Find all of the HTML best practice errors on the worksheet. Explain how the erro
 
 ### CSS Best Practices
 
-* What are CSS naming conventions? What is a convention???
+* What are CSS naming conventions? What is a "convention"???
 * What problems are CSS naming conventions trying to solve? 
 * What does BEM stand for? 
 
