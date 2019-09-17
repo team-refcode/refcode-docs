@@ -45,9 +45,9 @@ Find all of the HTML best practice errors on the worksheet. Explain how the erro
 
 **Exercise 📝**
 
-Write out class names using BEM for the page elements highlighted in red.
+Write out class names using BEM for the page elements highlighted in red. <a href="./class-naming-exercise.pdf" type="application/pdf" target="_blank">CSS Class Naming Worksheet</a>
 
-Conclusion...
+**Conclusion...**
 
 > There are only two hard things in Computer Science: cache invalidation and naming things.
 >
