@@ -35,7 +35,7 @@ Learning to code is skill similiar to learning an instrument, the only way to im
 
 **Exercise 📝**
 
-Find all of the HTML best practice errors on the worksheet. Explain how the error should be fixed and why the error is problematic in the numbered section below. <a href="./html-mistakes.pdf" type="application/pdf" target="_blank">HTML Mistakes Worksheet</a>
+Find all of the HTML best practice errors on the worksheet. Explain how the error should be fixed and why the error is problematic in the numbered section below. [HTML Mistakes Worksheet](./html-mistakes.pdf)
 
 ### CSS Best Practices
 
@@ -45,7 +45,7 @@ Find all of the HTML best practice errors on the worksheet. Explain how the erro
 
 **Exercise 📝**
 
-Write out class names using BEM for the page elements highlighted in red. <a href="./class-naming-exercise.pdf" type="application/pdf" target="_blank">CSS Class Naming Worksheet</a>
+Write out class names using BEM for the page elements highlighted in red. [CSS Class Naming Worksheet](./class-naming-exercise.pdf)
 
 **Conclusion...**
 
