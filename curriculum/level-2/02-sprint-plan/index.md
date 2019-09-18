@@ -101,6 +101,40 @@ Free code camp is a free resource for learning and practicing coding concepts. O
 1. Click "Show me my public portfolio" 
 1. Copy URL and share in Slack (Example: https://www.freecodecamp.org/cocarson)
 
+## Homework
+
+The goal of this week's homework is to practice CSS patterns for layouts. CSS layouts are one of the most difficult concepts to do well and cause many professional developers problems. We'll focus on three main topics for CSS layout: CSS Grid, Flexbox and Media Queries. 
+
+**Assignments:**
+
+1. Experiment with media queries. Maybe even create an example using https://codepen.io/pen/! Once you understand media queries, upload a post titled "media-queries.md" to your `/blog` explaining **what** media queries do and **why** we use them.
+1. Complete at least half of the challenes in the "CSS Flexbox" section of the Free Code Camp curriculum. 
+1. Complete at least half of the challenes in the "CSS Grid" section of the Free Code Camp curriculum. 
+
+If you have questions working on your homework, ask in Slack! Volunteers are eagerly awaiting your questions. 
+
+Below is a list of resource to help you learn the above concepts. Watching and reading all materials is **not required** - however, completing the above assignments is.
+
+### Videos
+
+Feel free to search for your own tutorials on Youtube! Here are a few we found. 
+
+- Media Queries: https://www.youtube.com/watch?v=ZYV6dYtz4HA
+- CSS Flexbox: https://www.youtube.com/watch?v=0e02dl66PYo
+- CSS Grid:
+  - https://gridbyexample.com/video/
+  - https://www.youtube.com/watch?v=t6CBKf8K_Ac
+
+### Written lessons
+
+- Media Queries: https://css-tricks.com/css-media-queries/
+- CSS Flexbox: https://medium.com/free-code-camp/learn-css-flexbox-in-5-minutes-b941f0affc34
+- CSS Grid: https://tympanus.net/codrops/css_reference/grid/
+
+### Reference: 
+
+- CSS Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- CSS Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ---
 << [Back to curriculum overview](../level-2)
