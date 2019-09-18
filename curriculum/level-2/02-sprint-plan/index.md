@@ -77,5 +77,30 @@ When developing on your own, you have total control on what goes into your proje
 2. When I view my site on Github Pages, what am I viewing?
 
 
+## Getting started with Free Code Camp
+
+Free code camp is a free resource for learning and practicing coding concepts. On their website, they have hundred of coding challenges testing HTML, CSS, JavaScript and more! They also have a great newletter where which sends tutorials and advice articles for people learning to code.
+
+### 1. Create an account
+
+### 2. Update profile
+
+1. Update your username (and save!)
+
+1. Change the following settings to public:
+  - My name (first name is okay)
+  - My location (optional)
+  - My points
+  - My heat map
+  - My certifications (optional)
+  - My portfolio
+  - My time line
+  
+### 3. Share your profile in Slack
+
+1. Click "Show me my public portfolio" 
+1. Copy URL and share in Slack (Example: https://www.freecodecamp.org/cocarson)
+
+
 ---
 << [Back to curriculum overview](../level-2)
