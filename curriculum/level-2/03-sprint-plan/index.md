@@ -71,11 +71,20 @@ Next week, we'll be setting up a platform called [Jekyll](https://jekyllrb.com) 
 
 **Assignments:**
 
+- Complete Free Code Camp SASS challenges. [First lesson](https://learn.freecodecamp.org/front-end-libraries/sass)
 - Watch this introduction to Jekyll: [https://youtu.be/T1itpPvFWHI](https://youtu.be/T1itpPvFWHI)
 - Watch the setup instructions video for your computer. We'll do the setup next week in class together:
 	- [Mac](https://youtu.be/WhrU9m82Wm8)
 	- [Windows](https://youtu.be/LfP7Y9Ja6Qc)
 - Look through the [Jekyll Showcase](https://jekyllrb.com/showcase/). What kinds of sites can be built with Jekyll? What kinds of pages and features do these sites have?
+
+### Sass resources
+
+- [Sass documenation](https://sass-lang.com/guide)
+- [Codecademy: Learn Sass](https://www.codecademy.com/learn/learn-sass)
+- [Youtube: Freecodecamp learn Sass](https://www.youtube.com/watch?v=_a5j7KoflTs)
+
+---
 
 ---
 << [Back to curriculum overview](../level-2)
