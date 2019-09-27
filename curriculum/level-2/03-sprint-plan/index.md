@@ -84,7 +84,6 @@ Next week, we'll be setting up a platform called [Jekyll](https://jekyllrb.com) 
 - [Codecademy: Learn Sass](https://www.codecademy.com/learn/learn-sass)
 - [Youtube: Freecodecamp learn Sass](https://www.youtube.com/watch?v=_a5j7KoflTs)
 
----
 
 ---
 << [Back to curriculum overview](../level-2)
