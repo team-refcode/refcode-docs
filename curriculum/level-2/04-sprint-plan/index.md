@@ -103,6 +103,7 @@ Up to now, we've been using Github Desktop to manage our project repositories on
 The at-home assignments this time are to help prepare for next week discussion and get you familiarized with git and Github:
 ### Watch these videos
 1. [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+2. [JavaScript Tutorial for Beginners [48 min]](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 ### Assignments
 1. Create another blog post on your jekyll blog using the in-class instructions "Creating Your First Blog Post." Make sure you give your file a name with the YEAR-MONTH-DAY-title.markdown format.
