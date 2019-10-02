@@ -9,6 +9,12 @@ permalink: /curriculum/level-2/04-sprint-plan
 # Sprint 4
 SASS for CSS, Github Pages, and Jekyll
 
+## SASS exercise 📝
+
+Convert code snippet in exercise to SASS syntax. Try to remove as much duplication as possible. 
+
+[Exercise](https://docs.google.com/document/d/1wWDPG4G3l_7gdqGtSbC_5x-azOcLzuBjNGvyvP6f5Q0/edit?usp=sharing)
+
 ## In-class Assignments
 ### Using Jekyll and Github Pages
 In our last class we learned to build websites from scratch, this a useful skill but not always practical. It was a lot of work right? Making all of your pages look the same? Making navigation work the same on all of your pages so users don't get lost?
