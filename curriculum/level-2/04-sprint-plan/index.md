@@ -77,8 +77,19 @@ And paste it into your web browser. What's different?
 8. Give it a minute and check your blog at username.github.io/blog to see your changes
 
 
-### Creating Your First Blog Post
-1. Create a markdown file with today's date in the `_posts` directory. Your file should have this name
+## At-home Assignments
+Up to now, we've been using Github Desktop to manage our project repositories on Github, but we haven't dug into how git as a version control program works. Next session will will go into details about commits, best practices, how to contribute to other repositories via PRs, and how to give valuable comments. Being able to give useful and concise comments on a PR is a really good skill to have when looking for a job, and, just like everything else, it takes time and practice to master.
+
+The at-home assignments this time are to help prepare for next week discussion and get you familiarized with git and Github:
+### Watch these videos
+1. [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+2. [JavaScript Tutorial for Beginners [48 min]](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+### Assignments
+1. Create a blog post on your jekyll blog using the instructions below for "Creating Your First Blog Post." Make sure you give your file a name with the YEAR-MONTH-DAY-title.markdown format.
+
+#### Creating Your First Blog Post
+1. Create a markdown file with today's date in the `_posts` directory. Your file name should look like this:
 `2019-10-01-my-first-jekyll-post.markdown`
 2. Make sure you include the front matter that indicates the layout and title of your blog:
 ```
@@ -96,23 +107,6 @@ And paste it into your web browser.  What's different?
 6. Press ctrl+c to stop the server
 7. Add, commit and push your changes using Github Desktop.
 8. Give it a minute and check your blog at username.github.io/blog to see your changes
-
-
-
-
-
-
-
-## At-home Assignments
-Up to now, we've been using Github Desktop to manage our project repositories on Github, but we haven't dug into how git as a version control program works. Next session will will go into details about commits, best practices, how to contribute to other repositories via PRs, and how to give valuable comments. Being able to give useful and concise comments on a PR is a really good skill to have when looking for a job, and, just like everything else, it takes time and practice to master.
-
-The at-home assignments this time are to help prepare for next week discussion and get you familiarized with git and Github:
-### Watch these videos
-1. [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
-2. [JavaScript Tutorial for Beginners [48 min]](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-
-### Assignments
-1. Create another blog post on your jekyll blog using the in-class instructions "Creating Your First Blog Post." Make sure you give your file a name with the YEAR-MONTH-DAY-title.markdown format.
 
 ---
 << [Back to curriculum overview](../level-2)
