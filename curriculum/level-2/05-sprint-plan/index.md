@@ -60,7 +60,7 @@ Variable name constraints:
  - Cannot contain a space or hyphen
  - Case sensitive
  
-### Types
+### Primitive Types
 
 There are a numebr of "Types" in JavaScript. Each "Type" uses a different syntax. 
 
@@ -73,8 +73,6 @@ They are:
    - Example: `true` or `false` 
  - `null` -> a special value the represents and empty or unknown value
  - `undefined` -> when a value has not been assigned
- - `Object` -> a special type that store a collection of value
-   - `{ name: 'Carson', height: 176' }`
    
 ### Functions
 
@@ -166,6 +164,10 @@ if (height > 180) {
 
 // => "Sorry"
 ```
+
+## Homework 
+
+1. Finish the [Intro to JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) video!!!
 
 ---
 << [Back to curriculum overview](../level-2)
