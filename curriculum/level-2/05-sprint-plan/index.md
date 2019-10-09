@@ -7,7 +7,6 @@ permalink: /curriculum/level-2/05-sprint-plan
 ---
 
 # Sprint 5
-Command line Git, JavaScript variables
 
 ## JavaScript
 
