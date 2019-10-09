@@ -133,5 +133,39 @@ Write a program in JavaScript that print your first and last name.
 1. Call your function, `printMyName` with your first and last names as parameters
 1. Call your function again with a friend or family member's first and last name as parameters
 
+### Conditionals: `if` statements!
+
+First we need to talk about **expressions**. **Expressions** are code statements that return a value. Here are a few examples:
+
+```js
+2 + 2
+// => 4
+
+2 > 3
+// => false
+
+'hello' + ' ' + 'world'
+// => 'hello world'
+```
+
+Remember the boolean type we talked about earlier? If statements are a way of running code only when a specific **expression** is `true`. This is simple concept, that is incredibly powerful! The essence of programming is logic and running code conditionally.
+
+Optionally, we can use and `else` statement which will run when the `if` statement is not true.
+
+Example `if` statement:
+
+```js
+
+const height = 176;
+
+if (height > 180) {
+  console.log("I hear you're pretty tall!");
+} else {
+  console.log('Sorry');
+}
+
+// => "Sorry"
+```
+
 ---
 << [Back to curriculum overview](../level-2)
