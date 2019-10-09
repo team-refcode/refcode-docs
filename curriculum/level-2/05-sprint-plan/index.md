@@ -74,6 +74,25 @@ They are:
  - `Object` -> a special type that store a collection of value
    - `{ name: 'Carson', height: 176' }`
    
+#### Functions
+
+Variables allow us to store values that can be used for later, functions allow us to store code that can be executed at a later time.
+
+Function syntax: 
+
+```js
+function sayHello () {
+  console.log('Hello');
+}
+```
+
+Function with parameter: 
+
+```js
+function sayHello (name) {
+  console.log('Hello ' + name);
+}
+```
 
 ---
 << [Back to curriculum overview](../level-2)
