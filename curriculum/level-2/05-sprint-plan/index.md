@@ -72,6 +72,8 @@ They are:
    - Example: `true` or `false` 
  - `null` -> a special value the represents and empty or unknown value
  - `undefined` -> when a value has not been assigned
+ 
+ JavaScript also supports dymanic typing, meaning that variables can be re-assigned to different types.
    
 ### Functions
 
@@ -163,6 +165,15 @@ if (height > 180) {
 
 // => "Sorry"
 ```
+
+### Exercise 📝
+
+1. Use the `prompt()` function to ask for a user's height
+1. Store the value of the prompt and pass it to a function which checks if is tall
+1. Print a message based on if they are tall or not (code above)
+1. 🚨Keep in mind variables **types**! Can we compare a string to a number? 
+
+
 
 ## Homework 
 
