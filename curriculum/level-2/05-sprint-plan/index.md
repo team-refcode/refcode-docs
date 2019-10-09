@@ -10,7 +10,7 @@ permalink: /curriculum/level-2/05-sprint-plan
 
 ## JavaScript
 
-1. JavaScript is the most popular programming language in the world
+1. JavaScript is the most [popular programming language in the world](https://insights.stackoverflow.com/survey/2019#most-popular-technologies)
 1. Started out as a language to make websites interactive, now capable of building entire applications
    - What is the difference between a website and a web application? 
 1. High average salary for JavaScript developer
