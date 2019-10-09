@@ -18,7 +18,7 @@ Command line Git, JavaScript variables
 1. JavaScript runs on browsers or outside of browsers with Node.js
 1. Two versions of JavaScript -> ES6 and ES5
 
-### Running JavaScript in the browser
+## Running JavaScript in the browser
 
 JavaScript can be run in the browser by typing in the console. Right click and select "Insepct" to open the developer tools. Select the "Console" tab from the developer tools to open the JavaScript console. This is an interactive area where you can type JavaScript code to be executed by the browser.
 
@@ -40,11 +40,13 @@ JavaScript can be run in the browser by typing in the console. Right click and s
  1. Replace the `<script>` tag and the code inside with `<script src="./main.js"></script>`
  1. Reload the page to see if `hello world` still prints in the console.
  
-### JavaScript programming fundamentals
+## JavaScript programming fundamentals
 
-#### Variables
+### Variables
  
 Variables are used to store a value for later use. To create a variable, use a special keyword to "declare" that you want a variable, then the name of the variable. To assign the variable to a "value" use an `=` sign followed by the value.
+
+In the [video](https://www.youtube.com/watch?v=W6NZfCO5SIk) from last week's homework, Mosh compared a variable to placing an object into a moving back and writing a label on the box. We can see what is in the box, and we can put something else inside of the box, but the label will always be the same.
 
 Keywords:
  - `let` -> declares a variable whose value will later change
@@ -58,7 +60,7 @@ Variable name constraints:
  - Cannot contain a space or hyphen
  - Case sensitive
  
-#### Types
+### Types
 
 There are a numebr of "Types" in JavaScript. Each "Type" uses a different syntax. 
 
@@ -74,25 +76,62 @@ They are:
  - `Object` -> a special type that store a collection of value
    - `{ name: 'Carson', height: 176' }`
    
-#### Functions
+### Functions
 
-Variables allow us to store values that can be used for later, functions allow us to store code that can be executed at a later time.
+Variables allow us to store values that can be used for later, functions allow us to store code that can be executed at a later time. Functions can also `return` values which can be assigned to variables. 
 
 Function syntax: 
 
 ```js
-function sayHello () {
+function sayHello() {
   console.log('Hello');
 }
+
+// call the function
+sayHello();
+
+// => 'Hello'
 ```
 
-Function with parameter: 
+Functions become more powerful when used with parameters. Parameters are variables that are create by passing a value into a function. 
+
+Function with a parameter: 
 
 ```js
-function sayHello (name) {
+function sayHello(name) {
   console.log('Hello ' + name);
 }
+
+// call the function
+sayHello('Carson');
+
+// => Hello Carson
 ```
+
+Function with multiple parameters: 
+
+```js
+function area(width, height) {
+  return width * height;
+}
+
+const width = 4;
+const height = 8;
+const area = area(width, height);
+
+console.log(area);
+
+// => 32
+```
+
+### Exercise 📝
+
+Write a program in JavaScript that print your first and last name. 
+
+1. Create a function called `printMyName` which accepts a `firstName` and `lastName` parameter
+1. `printMyName` should console log your the `firstName` and `lastName` separated by a space
+1. Call your function, `printMyName` with your first and last names as parameters
+1. Call your function again with a friend or family member's first and last name as parameters
 
 ---
 << [Back to curriculum overview](../level-2)
