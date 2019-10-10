@@ -178,6 +178,7 @@ if (height > 180) {
 ## Homework 
 
 1. Finish the [Intro to JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk&list=PLTjRvDozrdlxEIuOBZkMAK5uiqp8rHUax) video!!!
+1. Dig in to the Free Code Camp [JavaScript challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)!
 
 ---
 << [Back to curriculum overview](../level-2)
