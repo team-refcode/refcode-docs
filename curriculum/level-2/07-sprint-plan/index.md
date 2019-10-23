@@ -12,7 +12,7 @@ Today we're building a tic tack toe game in JavaScript!
 
 ## Homework
 
-### 1. Practicing writing functions
+### Practice writing functions
 [Edabit](https://edabit.com/challenges/javascript) is website with thousands of fun coding challenges that will force you to think creativily and learn new JavaScript features!
 
 Complete these challenges before next class:
