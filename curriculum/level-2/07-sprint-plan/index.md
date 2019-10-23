@@ -29,9 +29,7 @@ Here's a few more challenging problems if you finish!
  
 | Click the "Resources" tab to view JavaScript functions or features that may be helpful for the challenge.|
 | - |
-| |
- 
-2. 
+| ![resources tab](./Screen%20Shot%202019-10-23%20at%206.48.24%20PM.png) |
 
 ---
 << [Back to curriculum overview](../level-2)
