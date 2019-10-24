@@ -12,7 +12,11 @@ Today we're building a tic tack toe game in JavaScript!
 
 ## Homework
 
-### Practice writing functions
+### 1. Finish Tic Tac Toe
+
+Finish up your tic tac toe board to allow for X's and O's. An empty button click should transition from empty to X, click an X should transition to O, and clicking O should transition to empty. 
+
+### 2. Practice writing functions
 [Edabit](https://edabit.com/challenges/javascript) is website with thousands of fun coding challenges that will force you to think creativily and learn new JavaScript features!
 
 Complete these challenges before next class:
