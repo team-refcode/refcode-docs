@@ -23,7 +23,7 @@ Broad and shallow introduction to almost everything that will be taught in the c
 1. [Finding Answers using Google](../../../modules/finding-answers-using-google)
 1. [Getting Started with Atom](../../../modules/getting-started-with-atom)
 1. [File types and encoding](../../../modules/file-types-and-encoding)
-1. [Introduction to HTML](../../../modules/intro-to-html)
+1. [Introduction to HTML](/modules/intro-to-html)
 
 ## Homework
 1. [Brainload](https://brentonstrine.github.io/brainload/)
